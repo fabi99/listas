@@ -17,7 +17,6 @@ class Nodo {
     private Nodo(int entrada) {
     throw new UnsupportedOperationException("Not supported yet.");
     }
-    //Escribir un método, en la clase Lista, que devuelva cierto si la lista está vacía
 public class Lista {
     protected Nodo primero;
     public Lista(){
